@@ -112,9 +112,6 @@ Applies a custom hiring doctrine to interview transcripts. Scores on Agency, Jud
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rishiatlan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishiatlan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
