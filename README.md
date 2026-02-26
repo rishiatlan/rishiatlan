@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1500&color=2026D2&center=true&vCenter=true&repeat=true&width=700&height=80&lines=Director+of+Talent+Acquisition+at+Atlan;I+build+teams+and+the+tools+that+make+hiring+for+great+repeatable;Author+of+Raising+the+Bar" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1500&color=2026D2&center=true&vCenter=true&repeat=true&width=700&height=80&lines=Global+R%26D+Talent+Strategy+%26+Acquisition+at+Atlan;I+build+teams+and+the+tools+that+make+hiring+for+great+repeatable;Author+of+Raising+the+Bar" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 ## About
 
-**Director of Talent Acquisition at [Atlan](https://atlan.com)**, where I own R&D talent strategy and hiring for engineers, product managers, designers, IT, and security (IC through Staff and leadership). 20+ years building and scaling TA functions across APAC, North America, and Europe.
+**Director of Talent Acquisition at [Atlan](https://atlan.com)**, where I own Global R&D Talent Strategy & Acquisition for Engineering, Product Management, Design, IT, and Security. 20+ years building and scaling TA functions across APAC, North America, and Europe.
 
 What makes me different: **I also build the tools my team uses.** Evaluation frameworks that run as AI agents. A macOS widget for API usage tracking. Cloudflare Workers that generate personalized offer experiences. All shipped, all open source, all built with Claude as my engineering partner. I wrote [**Raising the Bar**](https://www.amazon.in/dp/B0FQMWW9RR), a playbook on building teams that compound strength through every hire.
 
