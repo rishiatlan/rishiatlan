@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1500&color=2026D2&center=true&vCenter=true&repeat=true&width=700&height=80&lines=Global+R%26D+Talent+Strategy+%26+Acquisition+at+Atlan;I+build+teams+and+the+tools+that+make+hiring+for+great+repeatable;Author+of+Raising+the+Bar" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1500&color=2026D2&center=true&vCenter=true&repeat=true&width=700&height=80&lines=Global+R%26D+Talent+Strategy+%26+Acquisition+at+Atlan;I+build+teams+and+the+tools+that+make+hiring+great;Author+of+Raising+the+Bar" alt="Typing SVG" />
 </p>
 
 <p align="center">
