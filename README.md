@@ -45,10 +45,10 @@ Native macOS menubar widget showing Claude API usage at a glance. No more hittin
 </td>
 <td width="50%" valign="top">
 
-### [Prompt Optimizer MCP](https://github.com/rishiatlan/Claude-Prompt-Optimizer-MCP)
-Analyzes, scores, and compiles prompts for maximum impact. Zero LLM calls, all deterministic. 57% context compression.
+### [Prompt Optimizer MCP](https://github.com/rishiatlan/Prompt-Optimizer-MCP)
+Scores, compiles, and optimizes prompts for any LLM. 11 tools, zero AI calls inside. Freemium with free tier. [Product site](https://rishiatlan.github.io/Prompt-Optimizer-MCP/).
 
-`TypeScript` `MCP` `npm`
+`TypeScript` `MCP` `npm` `Freemium`
 
 </td>
 </tr>
