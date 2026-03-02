@@ -46,7 +46,7 @@ Native macOS menubar widget showing Claude API usage at a glance. No more hittin
 <td width="50%" valign="top">
 
 ### [Prompt Control Plane](https://github.com/rishiatlan/Prompt-Optimizer-MCP)
-Deterministic prompt governance for production LLM systems. 19 tools, policy enforcement, tamper-evident audit trail, zero LLM calls inside. [Product site](https://prompt-control-plane.pages.dev/). [How I built this](https://prompt-control-plane.pages.dev/how-i-built-this.html).
+Deterministic prompt governance for production LLM systems. 19 tools, policy enforcement, tamper-evident audit trail, zero LLM calls inside. [Product site](https://prompt-control-plane.pages.dev/).
 
 `TypeScript` `MCP` `npm` `GitHub Action` `Enterprise`
 
