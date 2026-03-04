@@ -46,7 +46,7 @@ Native macOS menubar widget showing Claude API usage at a glance. No more hittin
 <td width="50%" valign="top">
 
 ### [Prompt Control Plane](https://github.com/rishi-banerjee1/Prompt-Optimizer-MCP)
-Deterministic prompt governance for production LLM systems. 19 tools, policy enforcement, tamper-evident audit trail, zero LLM calls inside. [Product site](https://prompt-control-plane.pages.dev/).
+Deterministic prompt governance for production LLM systems. 19 tools, policy enforcement, tamper-evident audit trail, zero LLM calls inside. [Product site](https://getpcp.site).
 
 `TypeScript` `MCP` `npm` `GitHub Action` `Enterprise`
 
@@ -56,9 +56,9 @@ Deterministic prompt governance for production LLM systems. 19 tools, policy enf
 <td width="50%" valign="top">
 
 ### RishiOS MCP
-My hiring judgment, encoded as software. Rubric-based evaluation with weighted dimensions and structured verdicts across role types and levels.
+A full-stack talent operating system. 6 evaluation modes: scoring, JD generation, executive briefs, team calibration, slack bullets, and prose. Auto-repair, drift detection, learning from overrides.
 
-`TypeScript` `MCP` `Zod`
+`TypeScript` `MCP` `Zod` `Talent OS` `Self-Learning`
 
 </td>
 <td width="50%" valign="top">
