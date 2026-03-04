@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/rishibanerjee/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://rishiatlan.github.io/about-me/">
+  <a href="https://rishi-banerjee1.github.io/about-me/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.amazon.in/dp/B0FQMWW9RR">
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rishiatlan&style=flat-square&color=2026D2" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=rishi-banerjee1&style=flat-square&color=2026D2" alt="Profile views" />
 </p>
 
 ---
@@ -37,7 +37,7 @@ Tools I ship to solve problems my team faces daily. All built with AI as my engi
 <tr>
 <td width="50%" valign="top">
 
-### [Claude Usage Widget](https://github.com/rishiatlan/Claude-Usage-Mac-Widget)
+### [Claude Usage Widget](https://github.com/rishi-banerjee1/Claude-Usage-Mac-Widget)
 Native macOS menubar widget showing Claude API usage at a glance. No more hitting rate limits mid-conversation.
 
 `Swift` `SwiftUI` `macOS` `Claude API`
@@ -45,7 +45,7 @@ Native macOS menubar widget showing Claude API usage at a glance. No more hittin
 </td>
 <td width="50%" valign="top">
 
-### [Prompt Control Plane](https://github.com/rishiatlan/Prompt-Optimizer-MCP)
+### [Prompt Control Plane](https://github.com/rishi-banerjee1/Prompt-Optimizer-MCP)
 Deterministic prompt governance for production LLM systems. 19 tools, policy enforcement, tamper-evident audit trail, zero LLM calls inside. [Product site](https://prompt-control-plane.pages.dev/).
 
 `TypeScript` `MCP` `npm` `GitHub Action` `Enterprise`
@@ -110,7 +110,7 @@ Applies a custom hiring doctrine to interview transcripts. Scores on Agency, Jud
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rishiatlan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rishi-banerjee1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -119,7 +119,7 @@ Applies a custom hiring doctrine to interview transcripts. Scores on Agency, Jud
 > — from [Raising the Bar](https://www.amazon.in/dp/B0FQMWW9RR)
 
 <p align="center">
-  <a href="https://rishiatlan.github.io/about-me/">Portfolio</a> ·
+  <a href="https://rishi-banerjee1.github.io/about-me/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/rishibanerjee/">LinkedIn</a> ·
   <a href="https://www.amazon.in/dp/B0FQMWW9RR">Book</a> ·
   <a href="mailto:rpbanerjee@outlook.com">Email</a>
