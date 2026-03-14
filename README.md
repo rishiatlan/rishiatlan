@@ -55,12 +55,22 @@ Deterministic prompt governance for production LLM systems. 19 tools, policy enf
 <tr>
 <td width="50%" valign="top">
 
+### [BlindBench](https://github.com/rishi-banerjee1/blindbench)
+Blind benchmark for LLM reasoning failures. Side-by-side model comparison with hidden identities, factual accuracy scoring, 10-type failure taxonomy, stability testing, and confidence calibration. 100+ models, 7,500+ responses. [Live demo](https://rishi-banerjee1.github.io/blindbench/).
+
+`React` `Supabase` `PostgreSQL` `Deno` `Multi-LLM`
+
+</td>
+<td width="50%" valign="top">
+
 ### RishiOS MCP
 A full-stack talent operating system. 6 evaluation modes: scoring, JD generation, executive briefs, team calibration, slack bullets, and prose. Auto-repair, drift detection, learning from overrides.
 
 `TypeScript` `MCP` `Zod` `Talent OS` `Self-Learning`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### Atlan Offer Wizard
@@ -69,8 +79,6 @@ AI-generated personalized offer pages that turn a transactional moment into a me
 `Cloudflare Workers` `Hono` `Claude AI`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### BlinkyOwl
@@ -79,6 +87,8 @@ Fully autonomous YouTube Shorts generator with self-learning feedback loops. Zer
 `Python` `Remotion` `YouTube API`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### Gabbar Interview Evaluator
@@ -86,6 +96,8 @@ Applies a custom hiring doctrine to interview transcripts. Scores on Agency, Jud
 
 `AI` `Evaluation` `Claude`
 
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
@@ -102,6 +114,8 @@ Applies a custom hiring doctrine to interview transcripts. Scores on Agency, Jud
 <p align="center">
   <img src="https://img.shields.io/badge/Claude_AI-CC785C?style=flat&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/MCP-000000?style=flat&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=flat&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
