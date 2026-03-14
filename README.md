@@ -114,8 +114,6 @@ Applies a custom hiring doctrine to interview transcripts. Scores on Agency, Jud
 <p align="center">
   <img src="https://img.shields.io/badge/Claude_AI-CC785C?style=flat&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/MCP-000000?style=flat&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=flat&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
